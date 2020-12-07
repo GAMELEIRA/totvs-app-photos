@@ -1,0 +1,7 @@
+{
+  "name": "pothos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
